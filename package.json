@@ -1,0 +1,20 @@
+{
+  "name": "devnolife-generatecerti",
+  "version": "1.0.0",
+  "description": "app generate certificate application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devnolife",
+  "license": "ISC",
+  "dependencies": {
+    "docxtemplater": "^3.37.13",
+    "nodemailer": "^6.9.4",
+    "nodemailer-express-handlebars": "^6.1.0",
+    "pizzip": "^3.1.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.22.1",
+    "xlsx": "^0.18.5"
+  }
+}
